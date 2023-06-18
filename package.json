@@ -9,9 +9,11 @@
   "author": "Vitaliy Cheboksarov",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "del": "^3.0.0",
     "gulp": "^4.0.2",
-    "gulp-sass": "^5.1.0"
+    "gulp-sass": "^5.1.0",
+    "slick-carousel": "^1.8.1"
   },
   "dependencies": {
     "browser-sync": "^2.29.3",
